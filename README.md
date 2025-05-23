@@ -33,3 +33,16 @@ _"To continuously grow both personally and professionally, while contributing po
 - Interview Preparation  
 
 ---
+
+## 💼 Career Counselling
+
+**EVIDENCE **  
+[📷 View Screenshot](./assets/career-counselling.png)
+
+**REFLECTION (10%)**  
+**S:** I needed clarity on potential career paths.  
+**T:** Engage in a session that would help me align my interests and goals.  
+**A:** I actively took notes, asked questions, and explored multiple career options with the counselor.  
+**R:** I gained a clearer understanding of where I see myself and how to reach that goal.
+
+---
