@@ -1,5 +1,5 @@
 # Scelo-Kevin-Portfolio
-# :smile: Welcome to my digital portfolio. This portfolio reflects the knowledge and skills I have gained during the Work Readiness Training.
+## :smile: Welcome to my digital portfolio. This portfolio reflects the knowledge and skills I have gained during the Work Readiness Training.
 ---
 
 ## 🧩 About Me
@@ -9,13 +9,12 @@ Hi, I'm Scelo Kevin Nyandeni, a final year student at Cape Peninsula University 
 ---
 ## 📘 Table of Contents
 
-- [Personal Mission Statement](#personal-mission-statement)
-- [Skills Acquired](#skills-acquired)
-- [Projects & Assignments](#projects--assignments)
-- [Reflections](#reflections)
-- [Assessment Results](#assessment-results)
-- [CV/Resume](#cvresume)
-- [Contact](#contact)
+- [Personal Mission Statement]
+- [Skills Acquired]
+- [Projects & Assignments]
+- [Reflections]
+- [CV/Resume]
+- [Contact]
 
 ---
 ## 🧭 Personal Mission Statement
@@ -101,5 +100,6 @@ _"To continuously grow both personally and professionally, while contributing po
 
 ## 📫 Contact
 
-- Email: yourname@email.com  
+- Email: scelokevinnyandeni22@gmail.com
+- Secondary Email: scelo.nyandeni@icloud.com  
 - LinkedIn: [linkedin.com/in/](https://linkedin.com/in/scelo-nyandeni)
